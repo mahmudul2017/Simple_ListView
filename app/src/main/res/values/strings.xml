@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Day8</string>
+
+    <string-array name="Student">
+        <item>Harun</item>
+        <item>Munna</item>
+        <item>Fahim</item>
+        <item>Nurul</item>
+        <item>Raju</item>
+        <item>Joy</item>
+        <item>Sarowar</item>
+        <item>Rubel</item>
+        <item>Amit</item>
+        <item>Jobayer</item>
+        <item>Roni</item>
+    </string-array>
+
+    <string name="story1">MY NAME IS ....</string>
+</resources>
